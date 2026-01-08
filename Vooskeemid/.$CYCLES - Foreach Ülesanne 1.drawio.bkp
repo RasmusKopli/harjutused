@@ -1,0 +1,89 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="784" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="bImDVIbearOISMuM0Y5--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--2" target="bImDVIbearOISMuM0Y5--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--2" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--3" value="// 1. &quot;suured summad&quot;&#xa;            // kirjuta viie elemendiga massiiv, elemendid on 1,50,10,15,20, muutuja nimi otsusta ise.&#xa;            // kirjuta foreach tsükkel, ja võta kollektsiooniparameetriks oma viie elemendiga massiivi muutuja nimetus&#xa;            // tsükli sisse tee tingimuslause, mis kontrollib kas element on suurem kui 15&#xa;            // kui on suurem, siis kuva see element kasutajale välja&#xa;            /* vihje, &#xa;             * kui programm on õigesti kirjutatud, &#xa;             * siis kuvatakse kasutajale välja elemendid kakskümmend ja viiskümmend&#xa;             */" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="134" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--4" target="bImDVIbearOISMuM0Y5--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--4" value="Tekitame muutuja &quot;apelsiiniMahl&quot; kus&lt;div&gt;&amp;nbsp;asub massiv, millele&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;omistame&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;algväärtuse&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;kogumikutäisarvudega&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;1, 50, 10, 15 ja 20&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="298.5" y="260" width="231" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--7" target="bImDVIbearOISMuM0Y5--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--7" value="Seadista Foreach tsükkel, kus&amp;nbsp;&lt;div&gt;elemendi ajutise muutuja nimi&lt;div&gt;&amp;nbsp;on &quot;Arv&quot; ja kollektsiooni&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;muutuja on &quot;apelsiiniMahl&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="298" y="370" width="231" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--9" target="bImDVIbearOISMuM0Y5--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--13" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bImDVIbearOISMuM0Y5--12">
+          <mxGeometry x="-0.35" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--9" target="bImDVIbearOISMuM0Y5--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="525" />
+              <mxPoint x="285" y="830" />
+              <mxPoint x="414" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--23" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bImDVIbearOISMuM0Y5--21">
+          <mxGeometry x="-0.5949" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--9" value="Kas eelmine element&amp;nbsp;&lt;div&gt;oli kollektsioonis&lt;/div&gt;&lt;div&gt;&amp;nbsp;viimane element?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="480" width="216.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--11" target="bImDVIbearOISMuM0Y5--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--16" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bImDVIbearOISMuM0Y5--15">
+          <mxGeometry x="-0.2494" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--11" target="bImDVIbearOISMuM0Y5--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--18" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bImDVIbearOISMuM0Y5--17">
+          <mxGeometry x="0.0471" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--11" value="Kas ajutises muutujas&lt;div&gt;&amp;nbsp;&quot;Arv&quot; on suurem kui 15?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="610" width="216.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bImDVIbearOISMuM0Y5--14" target="bImDVIbearOISMuM0Y5--9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="775" />
+              <mxPoint x="570" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--14" value="Kuva kasutajale muutuja &quot;Arv&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297.75" y="740" width="231" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bImDVIbearOISMuM0Y5--20" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="850" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
