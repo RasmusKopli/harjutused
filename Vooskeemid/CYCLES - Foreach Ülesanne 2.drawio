@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="784" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="KkggpRHmdqTkD2us-P_W-0" value="// 2. &quot;summeerimine&quot;&#xa;            // kirjuta viie elemendiga massiiv, elemendid on 343,686,2300,4439,6996, muutuja nimi otsusta ise.&#xa;            // kirjuta täisarvu tüüpi muutuja mille sisse omistad väärtuse 0 ning mille nime otsustad ise&#xa;            // kirjuta foreach tsükkel, ja võta kollektsiooniparameetriks oma viie elemendiga massiivi muutuja nimetus&#xa;            // tsükli sisse liida oma täisarvu tüüpi muutujale elemendi sees olev arv juurde&#xa;            // peale tsüklit kuva kasutajale oma täisarvu tüüpi muutuja välja" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="134" width="560" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KkggpRHmdqTkD2us-P_W-1" target="KkggpRHmdqTkD2us-P_W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-1" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="140" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KkggpRHmdqTkD2us-P_W-2" target="KkggpRHmdqTkD2us-P_W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-2" value="Tekitame muutuja &quot;Saabas&quot; kus&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;asub&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;massiv, millele omistame&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;algväärtuse kogumikuarvudega:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;343, 686, 2300, 4439, 6996&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294.5" y="220" width="239" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KkggpRHmdqTkD2us-P_W-4" target="KkggpRHmdqTkD2us-P_W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-4" value="Tekitame täisarvu tüüpi muutuja &quot;Õun&quot;&amp;nbsp;&lt;div&gt;mille omistatud väärtus on 0&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="330" width="239" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KkggpRHmdqTkD2us-P_W-8" target="KkggpRHmdqTkD2us-P_W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-8" value="Seadista Foreach tsükkel, kus elemendi muutuja on &quot;Õun&quot; ja&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;kollektsioni&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;muutuja on &quot;Saabas&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="440" width="239" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-10" value="Kas eelmine element oli&amp;nbsp;&lt;div&gt;kollektsioonis&amp;nbsp;&lt;/div&gt;&lt;div&gt;viimane element?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="550" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="760" width="239" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KkggpRHmdqTkD2us-P_W-14" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="910" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
