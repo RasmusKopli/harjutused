@@ -1,4 +1,6 @@
-﻿namespace CYCLES
+﻿using System.Threading.Channels;
+
+namespace CYCLES
 {
     internal class Program
     {
@@ -48,6 +50,18 @@
              * NB programm peab niikaua käima kuni kasutaja sisestus on suurem või võrdne kui 40.000
              */
 
+            //float CO2tase = 0.0f;
+            //while (CO2tase <= 40f)
+            //{
+            //    Console.WriteLine("Mis on CO2 tase?");
+            //    CO2tase = float.Parse(Console.ReadLine());
+            //    if (CO2tase <= 40f)
+            //    {
+            //        Console.WriteLine("Otsest ohtu ei ole");
+            //    }
+            //}
+            //Console.WriteLine("Evakueeru hoonest! CO2 tase on liiga kõrgel");
+
             // 2. "vibumees"
             // tee muutuja "mehike" mille sees on täisarv 0
             // tee muutuja "vastus" mille sees on tühi tekst
@@ -65,6 +79,8 @@
             // peale tsüklit kontrolli kas muutujas "mehike" olev arv on väiksem kui 5
             // kui on väiksem kui 5 siis kuva sõnum "mehike elab :D"
             // kõikidel muudel juhtudel kuva sõnum "tapsid mehikese ära :c"
+
+
 
             /* For ülesanded*/
 
